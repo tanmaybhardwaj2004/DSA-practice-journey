@@ -19,3 +19,12 @@ int main()
         cout<<endl;
     }
 }
+
+/*
+PYRAMID PATTERN
+   *
+  ***
+ *****
+*******
+
+*/
